@@ -1,5 +1,4 @@
 # ENVIROMENTAL-IMPACT-ANALYSIS-PROJECT-POWER-BI
-This project is made by me on PowerBI.
-This Dashboard shows the environmental impact. This dashboard shows top 10 cities by most Average of  PM2.5 AQI, top 5 countries by most Average of  PM2.5 AQI, it shows the comparison of ozone, AQL, CO, NO2 of top 5 countries, it shows the comparison of ozone, AQL, CO, NO2 of top 5 cities, Heatmap of top 10 countries and cities on the basis of most average AQL. It also shows the average AQI, Average PM2.5 AQL, Average NO2, Average Ozone, Average CO. 
+Developed an interactive Power BI dashboard to analyze environmental effects, showcasing KPIs for average AQI, PM2.5, NO2, ozone, and CO values. The dashboard includes visualizations like horizontal bar charts, area charts, line charts, and tree maps to compare AQI values across top cities and countries. Applied filters to explore data by city and country. Performed data cleaning, sorting, filtering, and created DAX fields for analysis using Power Query, followed by dashboard creation in Power BI
 simply download file to see project
 dataset is in the powerbi file 
